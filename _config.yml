@@ -10,7 +10,7 @@ title:            Hello Wolrd
 tagline:          'Blog'
 description:      'Have a nice day!😄'
 url:              https://choijunwoo.github.io
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'Junwoo Choi'
