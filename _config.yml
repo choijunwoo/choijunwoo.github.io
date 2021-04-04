@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hello Wolrd
+title:            Hello World
 tagline:          'Blog'
 description:      'Have a nice day!😄'
 url:              https://choijunwoo.github.io
